@@ -181,7 +181,6 @@ ptyprocess==0.7.0
 py==1.10.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
--e git+https://ghe.misosiru.io/a3rt/voice_emotion_prediction.git@047c0d233e80bc447041df4bec83b03563faf2bd#egg=pyAudioAnalysis&subdirectory=src/pyAudioAnalysis
 pycaret==2.2.3
 pycparser==2.20
 pydantic==1.7.3
